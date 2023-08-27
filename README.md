@@ -1,4 +1,4 @@
-# NES-Style CSS Framework
+# NES UI CSS Framework
 
 ![Mockup WIP](./mockup_wip.jpg)
 
