@@ -1,0 +1,10 @@
+# Testing folder.
+test/
+
+# Text editor.
+.vscode/
+
+# Production dependencies.
+node_modules/
+package-lock.json
+package.json

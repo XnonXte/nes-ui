@@ -1,0 +1,12 @@
+/* Button class. */
+
+.btn {
+  border: 3px solid black;
+  padding: 8px 14px;
+  box-shadow: 6px 4px black;
+
+  &:hover {
+    transform: translateY(12%);
+    box-shadow: 4px 2px black;
+  }
+}

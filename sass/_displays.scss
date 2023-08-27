@@ -1,0 +1,181 @@
+/* Display Classes */
+
+.d-inline {
+  display: inline;
+}
+
+.d-block {
+  display: block;
+}
+
+.d-inline-block {
+  display: inline-block;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.d-inline-flex {
+  display: inline-flex;
+}
+
+.d-grid {
+  display: grid;
+}
+
+.d-table {
+  display: table;
+}
+
+.d-table-cell {
+  display: table-cell;
+}
+
+/* Flex Direction Classes */
+
+.d-flex-row {
+  flex-direction: row;
+}
+
+.d-flex-column {
+  flex-direction: column;
+}
+
+.d-flex-row-reverse {
+  flex-direction: row-reverse;
+}
+
+.d-flex-column-reverse {
+  flex-direction: column-reverse;
+}
+
+/* Flex Wrap Classes */
+
+.d-flex-nowrap {
+  flex-wrap: nowrap;
+}
+
+.d-flex-wrap {
+  flex-wrap: wrap;
+}
+
+.d-flex-wrap-reverse {
+  flex-wrap: wrap-reverse;
+}
+
+/* Justify Content Classes */
+
+.d-justify-start {
+  justify-content: flex-start;
+}
+
+.d-justify-end {
+  justify-content: flex-end;
+}
+
+.d-justify-center {
+  justify-content: center;
+}
+
+.d-justify-between {
+  justify-content: space-between;
+}
+
+.d-justify-around {
+  justify-content: space-around;
+}
+
+.d-justify-evenly {
+  justify-content: space-evenly;
+}
+
+/* Align Items Classes */
+
+.d-align-start {
+  align-items: flex-start;
+}
+
+.d-align-end {
+  align-items: flex-end;
+}
+
+.d-align-center {
+  align-items: center;
+}
+
+.d-align-baseline {
+  align-items: baseline;
+}
+
+.d-align-stretch {
+  align-items: stretch;
+}
+
+/* Align Content Classes */
+
+.d-content-start {
+  align-content: flex-start;
+}
+
+.d-content-end {
+  align-content: flex-end;
+}
+
+.d-content-center {
+  align-content: center;
+}
+
+.d-content-between {
+  align-content: space-between;
+}
+
+.d-content-around {
+  align-content: space-around;
+}
+
+.d-content-stretch {
+  align-content: stretch;
+}
+
+/* Gap classes */
+
+.gap-1 {
+  gap: 4px;
+}
+
+.gap-2 {
+  gap: 8px;
+}
+
+.gap-3 {
+  gap: 12px;
+}
+
+.gap-4 {
+  gap: 16px;
+}
+
+.gap-5 {
+  gap: 20px;
+}
+
+.gap-6 {
+  gap: 24px;
+}
+
+.gap-7 {
+  gap: 28px;
+}
+
+.gap-8 {
+  gap: 32px;
+}
+
+.gap-9 {
+  gap: 36px;
+}
+
+.gap-10 {
+  gap: 40px;
+}

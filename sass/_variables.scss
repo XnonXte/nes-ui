@@ -1,0 +1,17 @@
+/* Default colors. */
+
+$blue: hsla(200, 100%, 40%, 1);
+$yellow: hsla(45, 100%, 40%, 1);
+$red: hsla(10, 100%, 40%, 1);
+$orange: hsla(30, 100%, 40%, 1);
+$green: hsla(140, 100%, 40%, 1);
+$white: hsla(0, 0%, 80%, 1);
+$black: hsla(0, 0%, 15%, 1);
+
+$primary: $blue !default;
+$secondary: $yellow !default;
+$danger: $red !default;
+$warning: $orange !default;
+$success: $green !default;
+$light: $white !default;
+$dark: $black !default;

@@ -1,0 +1,68 @@
+// The container class is heavily inspired by bootstrap's container layout, though this is just the minified version of it. More on them here: https://getbootstrap.com/docs/5.0/layout/containers/
+
+/* Container Class */
+
+.container {
+  width: 100%;
+  max-width: 1140px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+/* Media Queries for Different Screen Sizes */
+
+@media (max-width: 575.98px) {
+  /* Extra Small screens */
+  .container {
+    max-width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  /* Small screens */
+  .container {
+    max-width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  /* Medium screens */
+  .container {
+    max-width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  /* Large screens */
+  .container {
+    max-width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+  /* X-Large screens */
+  .container {
+    max-width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+}
+
+@media (min-width: 1400px) {
+  /* XX-Large screens */
+  .container {
+    max-width: 1140px;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+}

@@ -1,0 +1,14 @@
+/* Default fonts */
+
+@font-face {
+  font-family: "pixel nes";
+  src: url("../dist/fonts/pixel-nes.otf");
+}
+
+@font-face {
+  font-family: "ms ui gothic";
+  src: url("../dist/fonts/msgothic.ttc");
+}
+
+$nes-font-monospace: "pixel nes", monospace !default;
+$nes-font-sans: "ms ui gothic", "sans-serif" !default;

@@ -1,0 +1,22 @@
+/* Anchor link class, can be used for buttons too. */
+
+.link {
+  &:link {
+    color: $dark;
+    background-color: $warning;
+    padding: 4px 6px;
+  }
+
+  &:hover {
+    transform: translateY(8%);
+  }
+
+  &:active {
+    background-color: $danger;
+  }
+
+  &:visited {
+    color: $danger;
+    background-color: $dark;
+  }
+}
